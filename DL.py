@@ -7,7 +7,7 @@ st.title("     --------Sign detection--------")
 run = st.checkbox('Run')
 FRAME_WINDOW = st.image([])
 camera = cv2.VideoCapture(0)
-model=tensorflow.keras.models.load_model('C:\\Users\\Brindha\\Downloads\\model.h5')
+model=tensorflow.keras.models.load_model('model.h5')
 font = cv2.FONT_HERSHEY_SIMPLEX     
 org = (0, 30)       
 fontScale = 0.5
