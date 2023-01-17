@@ -18,4 +18,5 @@ Deployed using streamlit.
 
 ![image](https://user-images.githubusercontent.com/84025317/212902006-b29f4cc4-91a1-4749-a568-4eac185e8e3f.png)
 
-![image](https://user-images.githubusercontent.com/84025317/212902320-8474df76-9f0a-45a0-9ab8-2fc679b2da26.png)
+![dv2](https://user-images.githubusercontent.com/84025317/212903576-aec99841-9227-47e0-a6b8-34baf999c4e2.jpg)
+
