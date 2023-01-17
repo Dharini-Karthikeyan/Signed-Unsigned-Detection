@@ -3,7 +3,7 @@ import cv2
 import streamlit as st
 import time
 import numpy as np
-st.title("     --------Sign detection--------")
+st.title("     ------Signed-Unsigned detection------")
 run = st.checkbox('Run')
 FRAME_WINDOW = st.image([])
 camera = cv2.VideoCapture(0)
